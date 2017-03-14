@@ -1,8 +1,25 @@
 html {
+
+
+
+
   text-size-adjust: 100%;
+}
+body {
+
+  background-color: lightblue
 }
 
 body {
-  margin: 0;
-  font: 16px / 1 sans-serif;
+
+
+  max-width: 940px;
+  margin: 0 auto;
+  font: 16px / 1 Fantasy;
+
+  border-style: dashed;
+    border-width: 3px;
+    border-left-width: 3px;
+    border-right-width: 3px;
+    border-color: pink;
 }
